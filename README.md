@@ -6,7 +6,7 @@ Built using **HTML, CSS, and JavaScript**, this project runs completely in the b
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - ✅ Track **Attended** and **Bunked** classes
 - 📊 Automatically calculates **Attendance Percentage**
@@ -17,7 +17,7 @@ Built using **HTML, CSS, and JavaScript**, this project runs completely in the b
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - **HTML** – Structure
 - **CSS** – Styling & layout
@@ -26,5 +26,4 @@ Built using **HTML, CSS, and JavaScript**, this project runs completely in the b
 
 ---
 
-## 📂 Project Structure
 
